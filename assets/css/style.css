@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+body {
+    background-image: url("https://th.bing.com/th/id/OIP.NRO8yetTvJXQukrmxbRGIAHaEK?w=307&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7");
+    background-size: cover;
+}
+
+#container {
+    width: 960px;
+    margin: 0 auto;
+}
+
+#header{
+    background-image: url("http://jos.gluweb.nl/lessen/web/blue.png");
+    background-repeat: no-repeat;
+    height: 200px;
+    text-align: center;
+    font-size: 31px;
+    line-height: 200px;
+}
